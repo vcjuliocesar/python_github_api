@@ -1,9 +1,19 @@
 # python github api exercise
+## Requirements
+-   Python 3
+-   PIP 3
+-  Virtual Enviroments
 
-```sh
-git clone
-python3 -m menv env
-source env/bin/activate
-pip3 install -r requeriments.txt
-python3 main.py
-```
+## Instructions
+
+  -   Clone the repository
+``git@github.com:vcjuliocesar/python_github_api.git``
+ - Create Virtual Enviroment
+  ```python3  -m  menv  env```
+  
+- Activate virtual enviroment
+``source  env/bin/activate``
+- Install dependencies
+``pip3  install  -r  requeriments.txt``
+- Run proyect
+``python3  main.py``
